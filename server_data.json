@@ -2,8 +2,8 @@
   
     "myads": {
 		
-	  "_status_reward": "ADMOB",
-	  "_status_banner_native": "ADMOB",
+	  "_status_reward": "UNITY",
+	  "_status_banner_native": "IRONSOURCE",
 	  "_admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 	  "_admob_reward": "ca-app-pub-3940256099942544/5224354917",
       "_admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -14,7 +14,7 @@
       "_test_mode": "yes",
       "_unityGameID": "4710101",
 	  "_ironsource": "1632ba565",
-	  "_gameUrl": "https://html5.gamedistribution.com/bcacf81441bd4c7799a622171116ea9d/",
+	  "_gameUrl": "https://storage.y8.com/y8-studio/html5/akeemywka/knife_hit_y8/",
 	  "_currency_name": "points",
       "_currency_cost": "20"
       
