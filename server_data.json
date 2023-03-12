@@ -128,18 +128,18 @@
       },
       "Ads Settings": {
         "ActivateMediation" : true,
-        "ModeAdsBanner" : "Applovin",
-        "ModeAdsInterstitial" : "Applovin",
-        "ModeAdsNative" : "Applovin",
+        "ModeAdsBanner" : "applovin",
+        "ModeAdsInterstitial" : "applovin",
+        "ModeAdsNative" : "applovin",
         "EnableActivityMoreGames": true,
         "IntervalInterstitialSelectColors" : 10,
         "IntervalInterstitialPatternsColors" : 3
       },
       "Backup Ads": {
-        "BackupAdmob": "Applovin",
+        "BackupAdmob": "applovin",
         "BackupFacebook": "applovin",
-        "BackupApplovin": "Applovin",
-        "BackupUnity": "Applovin"
+        "BackupApplovin": "applovin",
+        "BackupUnity": "applovin"
       }
     }
   }
