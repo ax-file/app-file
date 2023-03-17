@@ -4,7 +4,7 @@
     "vpn_username": "ncpabdoxziko@namecheap",
     "vpn_password": "0TdyUZeGrN",
     "retry_vpn_counter": 4,
-    "vpn_country": "MyApp",
+    "vpn_country": "MyApps",
       "excluded_countries": [
         "MA"
     ],
