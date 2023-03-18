@@ -135,7 +135,7 @@
         "Unity" : true
       },
       "Ads Settings": {
-        "ActivateMediation" : true,
+        "ActivateMediation" : false,
         "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
