@@ -129,17 +129,17 @@
         "AdNetwork4" : "unity"
       },
       "Networks Status": {
-        "Admob" : true,
-        "Facebook" : true,
+        "Admob" : false,
+        "Facebook" : false,
         "Applovin" : true,
         "Unity" : true
       },
       "Ads Settings": {
-        "ActivateMediation" : false,
+        "ActivateMediation" : true,
         "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
-        "EnableActivityMoreGames": true,
+        "EnableActivityMoreGames": false,
         "IntervalInterstitialSelectColors" : 10,
         "IntervalInterstitialPatternsColors" : 3
       },
