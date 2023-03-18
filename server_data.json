@@ -129,13 +129,13 @@
         "AdNetwork4" : "unity"
       },
       "Networks Status": {
-        "Admob" : false,
-        "Facebook" : false,
+        "Admob" : true,
+        "Facebook" : true,
         "Applovin" : true,
-        "Unity" : false
+        "Unity" : true
       },
       "Ads Settings": {
-        "ActivateMediation" : true,
+        "ActivateMediation" : false,
         "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
@@ -144,10 +144,10 @@
         "IntervalInterstitialPatternsColors" : 3
       },
       "Backup Ads": {
-        "BackupAdmob": "applovin",
+        "BackupAdmob": "facebook",
         "BackupFacebook": "applovin",
-        "BackupApplovin": "applovin",
-        "BackupUnity": "applovin"
+        "BackupApplovin": "unity",
+        "BackupUnity": "admob"
       }
     }
   }
