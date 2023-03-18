@@ -139,7 +139,7 @@
         "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
-        "EnableActivityMoreGames": false,
+        "EnableActivityMoreGames": true,
         "IntervalInterstitialSelectColors" : 10,
         "IntervalInterstitialPatternsColors" : 3
       },
