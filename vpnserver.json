@@ -4,12 +4,32 @@
     "vpn_username": "ncpabdoxziko@namecheap",
     "vpn_password": "0TdyUZeGrN",
     "retry_vpn_counter": 4,
-    "vpn_country": "MyApps",
+    "vpn_country": "MyApp",
       "excluded_countries": [
         "MA"
     ],
     "serversList": [
-"https://www.dropbox.com/s/c048ag0gwdhjpge/NCVPN-UK-Glasgow-TCP.ovpn?dl=1"
+"https://www.dropbox.com/s/h27voweg37psr97/NCVPN-US-Ashburn-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/0cr2ugtxgka7hy4/NCVPN-US-Atlanta-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/3eja6q3iifcqeaq/NCVPN-US-Boston-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/7c8snyt3qjodbup/NCVPN-US-Charlotte-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/4bggvuguhst0z0c/NCVPN-US-Chicago-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/5sinyvqvc47i8mq/NCVPN-US-Cincinnati-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/ujigl26xyavhl2u/NCVPN-US-Dallas-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/664e1o4l4qmtcmk/NCVPN-US-Denver-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/kyey5filrwr90vd/NCVPN-US-Detroit-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/x5tlgil79mlaf3t/NCVPN-US-Houston-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/fx36nnyebtvd33p/NCVPN-US-Las%20Vegas-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/bvgh193vwg59t9i/NCVPN-US-Los%20Angeles-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/4n3h49guf2nzzj3/NCVPN-US-Miami-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/eoyfonam1qkyij6/NCVPN-US-Minneapolis-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/c048ag0gwdhjpge/NCVPN-UK-Glasgow-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/z0vya9nn5zul7b0/NCVPN-US-New%20Orleans-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/k6d0efo7yqpfqet/NCVPN-US-New%20York-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/gbbtoxr9nqmyx4c/NCVPN-US-Phoenix-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/8kdhk7b9p5qbcue/NCVPN-US-San%20Jose-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/ziewp80ourxt3id/NCVPN-US-Seattle-TCP.ovpn?dl=1",
+"https://www.dropbox.com/s/3qikwl0gkn2ku39/NCVPN-US-St%20Louis-TCP.ovpn?dl=1"
     ]
   }
 }
