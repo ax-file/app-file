@@ -137,8 +137,8 @@
       "Ads Settings": {
         "ActivateMediation" : false,
         "ModeAdsBanner" : "unity",
-        "ModeAdsInterstitial" : "applovin",
-        "ModeAdsNative" : "applovin",
+        "ModeAdsInterstitial" : "unity",
+        "ModeAdsNative" : "unity",
         "EnableActivityMoreGames": true,
         "IntervalInterstitialSelectColors" : 10,
         "IntervalInterstitialPatternsColors" : 3
