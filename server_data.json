@@ -136,7 +136,7 @@
       },
       "Ads Settings": {
         "ActivateMediation" : false,
-        "ModeAdsBanner" : "applovin",
+        "ModeAdsBanner" : "unity",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
         "EnableActivityMoreGames": true,
