@@ -147,7 +147,7 @@
         "BackupAdmob": "facebook",
         "BackupFacebook": "applovin",
         "BackupApplovin": "unity",
-        "BackupUnity": "admob"
+        "BackupUnity": "applovin"
       }
     }
   }
