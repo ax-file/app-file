@@ -135,7 +135,7 @@
         "Unity" : true
       },
       "Ads Settings": {
-        "ActivateMediation" : false,
+        "ActivateMediation" : true,
         "ModeAdsBanner" : "unity",
         "ModeAdsInterstitial" : "unity",
         "ModeAdsNative" : "unity",
