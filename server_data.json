@@ -132,11 +132,11 @@
         "Admob" : false,
         "Facebook" : false,
         "Applovin" : true,
-        "Unity" : true
+        "Unity" : false
       },
       "Ads Settings": {
         "ActivateMediation" : true,
-        "ModeAdsBanner" : "unity",
+        "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
         "EnableActivityMoreGames": true,
