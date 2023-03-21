@@ -131,7 +131,7 @@
       "Networks Status": {
         "Admob" : false,
         "Facebook" : false,
-        "Applovin" : true,
+        "Applovin" : false,
         "Unity" : false
       },
       "Ads Settings": {
