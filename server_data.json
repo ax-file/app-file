@@ -110,8 +110,8 @@
         "NativeId": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
       },
       "Applovin": {
-        "BannerId": "789ecf46a4aaa724",
-        "InterstitialId": "dc38bf7f5de3aa80",
+        "BannerId": "b17caa9db7b57226",
+        "InterstitialId": "0ccecde314d64a96",
         "NativeId": "216dd9451b13b2d4"
       },
       "Unity": {
@@ -131,7 +131,7 @@
       "Networks Status": {
         "Admob" : false,
         "Facebook" : false,
-        "Applovin" : false,
+        "Applovin" : true,
         "Unity" : false
       },
       "Ads Settings": {
@@ -139,7 +139,7 @@
         "ModeAdsBanner" : "applovin",
         "ModeAdsInterstitial" : "applovin",
         "ModeAdsNative" : "applovin",
-        "EnableActivityMoreGames": false,
+        "EnableActivityMoreGames": true,
         "IntervalInterstitialSelectColors" : 10,
         "IntervalInterstitialPatternsColors" : 3
       },
