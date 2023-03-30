@@ -1,0 +1,146 @@
+{
+  "Slider & Games" : {
+    "Slider_Images" : [
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/br-7zIxooRbfEN2sUtHWMF-LNS5KGfdvfQbDWyuU1U2QNL1Znkqbh_fdS3At8zTJzws=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.coloring.book.pages.colordodo"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/pEDquDXRmPtkUWP5pns5V8kwZeSefR_dFszGd7H7KCupbR8DlkReoPLMmI5uyA8MYM07=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.rvappstudios.kids.coloring.book.color.painting"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/TJa66XTY9ilE1Ih3CTFozPXbmzC6iEy42c6VIwPq-ikoJPCldwUKDIUeGbhlCYtzlg=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.bimiboo.coloring"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/O14IVowUalAFQ22JPG7uQdX0mclKgvTqs7dwt9DFFsF0CO5TtaWyO1NN_0wSdofjA3o=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.adult.coloring.book.pages"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/CK3cBOuq1demnkd0EguzYiceQI37JC6anERcXaxMlkYa90zIkG9z68flkaBwhIdplH1w=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.joongly.coloring.kids"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/aYIhdspMOWLxY3m7kTuswul0JnWFyXKCfHFXmqo0t3QimhLitiRsShgPB33AW-E7wp0=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number"
+      }
+    ],
+    "More_Games" : [
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/-3g7-W_PXmeOJ14h85CZXy9PvAQ6RDiX89XNhQ6xl27Ld5FvrolEh4fQQYepsRiXcPdX=s512-rw",
+        "app_name": "Attack Hole",
+        "app_link": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/jj5v_mTi6LtWt0lmKyTx6EXYCHaQFcdinioC6qrhVGVX-4n2pS9oNlfzPvvM8Q93g0o=s512-rw",
+        "app_name": "Subway Surfers",
+        "app_link": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=s512-rw",
+        "app_name": "Roblox",
+        "app_link": "https://play.google.com/store/apps/details?id=com.roblox.client"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/8Zc2SWYy3t70pvIdX9PeuaHpZZIP8sJybKiBUH2vkdxx9R2rypcIE-rN9_fbt-G7rWQ=s512-rw",
+        "app_name": "Words of Wonders",
+        "app_link": "https://play.google.com/store/apps/details?id=com.fugo.wow"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/XdcScI3Zuy0CmXDKuUxlktK9JvMnM_WTVxpKQ0NikRtBacWTzc-nMVTdtjDFs9LPwwg=s512-rw",
+        "app_name": "Football League",
+        "app_link": "https://play.google.com/store/apps/details?id=com.football.soccer.league"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM=s512-rw",
+        "app_name": "Candy Crush",
+        "app_link": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/QkaMLBdWz7OaFTpeP7XjSlpTgyrDVUMlhGFgTnokJ8biymh4adzhqKwrKhERjX3one8=s512-rw",
+        "app_name": "Piano Fire",
+        "app_link": "https://play.google.com/store/apps/details?id=beatmaker.edm.musicgames.PianoGames"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/vHuenuu1GqX1BwDaYX86dsbQlmA7vCO0PEdgdXlCEZP5x2_R3pZo0xcI9Mkdn4UW7NA=s512-rw",
+        "app_name": "2 3 4 Player",
+        "app_link": "https://play.google.com/store/apps/details?id=com.ction.playergames"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/_jJo5zD8CXvU9p46FUtZUIi7JLeSOgYxKW8VL56XEevj2ULMebuhDafxhvTdXGxDH9WE=s512-rw",
+        "app_name": "Block Crazy",
+        "app_link": "https://play.google.com/store/apps/details?id=com.crazy.block.robo.monster.cliffs.craft"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/OUaRAgbJ4136zmD04hVTTHF6isgROSikVSauxgKpdkSvkeJ7CJq0mqjEge4TRWlB7XZY=s512-rw",
+        "app_name": "Snake.io - Fun Snake .io Games",
+        "app_link": "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/PpwKcdiaVft_I-p5g5P_uzmkUCd6dyKVFbRLwLcxH9ojsyG34XNPl6-mXsVjpRYmfpA=s512-rw",
+        "app_name": "Stickman Party 2 3 4 MiniGames",
+        "app_link": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/NRVvxVhvUyoq96IMR0LSnoXQz7wVnVaGEgMrUD1UjIBfX3ULO2PAfhE4Xfh3zYu1GAs=s512-rw",
+        "app_name": "Going Balls",
+        "app_link": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
+      }
+    ]
+  },
+  "Ads Controller" : {
+    "Ads Units": {
+      "Admob": {
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "NativeId": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "Facebook": {
+        "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialId": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeId": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
+      },
+      "Applovin": {
+        "BannerId": "789ecf46a4aaa724",
+        "InterstitialId": "dc38bf7f5de3aa80",
+        "NativeId": "216dd9451b13b2d4"
+      },
+      "Unity": {
+        "GameId": "4862004",
+        "BannerId": "Banner_Android",
+        "InterstitialId": "Interstitial_Android",
+        "TestAds": true
+      }
+    },
+    "Ads Configs": {
+      "Mediation List": {
+        "AdNetwork1" : "admob",
+        "AdNetwork2" : "facebook",
+        "AdNetwork3" : "applovin",
+        "AdNetwork4" : "unity"
+      },
+      "Networks Status": {
+        "Admob" : true,
+        "Facebook" : true,
+        "Applovin" : true,
+        "Unity" : true
+      },
+      "Ads Settings": {
+        "ActivateMediation" : true,
+        "ModeAdsBanner" : "admob",
+        "ModeAdsInterstitial" : "admob",
+        "ModeAdsNative" : "admob",
+        "EnableActivityMoreGames": true,
+        "IntervalInterstitialSelectColors" : 10,
+        "IntervalInterstitialPatternsColors" : 3
+      },
+      "Backup Ads": {
+        "BackupAdmob": "facebook",
+        "BackupFacebook": "applovin",
+        "BackupApplovin": "unity",
+        "BackupUnity": "admob"
+      }
+    }
+  }
+}
