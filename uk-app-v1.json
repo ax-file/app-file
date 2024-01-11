@@ -92,9 +92,9 @@
   "Ads Controller" : {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
-        "NativeId": "ca-app-pub-3940256099942544/2247696110"
+        "BannerId": "ca-app-pub-3940256099942544/0",
+        "InterstitialId": "ca-app-pub-3940256099942544/0",
+        "NativeId": "ca-app-pub-3940256099942544/0"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -127,13 +127,13 @@
         "Unity" : true
       },
       "Ads Settings": {
-        "ActivateMediation" : true,
+        "ActivateMediation" : false,
         "ModeAdsBanner" : "admob",
         "ModeAdsInterstitial" : "admob",
         "ModeAdsNative" : "admob",
-        "EnableActivityMoreGames": true,
-        "IntervalInterstitialSelectColors" : 10,
-        "IntervalInterstitialPatternsColors" : 3
+        "EnableActivityMoreGames": false,
+        "IntervalInterstitialSelectColors" : 15,
+        "IntervalInterstitialPatternsColors" : 15
       },
       "Backup Ads": {
         "BackupAdmob": "facebook",
