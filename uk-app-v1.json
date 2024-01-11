@@ -4,6 +4,10 @@
       {
         "image_uRL": "https://play-lh.googleusercontent.com/br-7zIxooRbfEN2sUtHWMF-LNS5KGfdvfQbDWyuU1U2QNL1Znkqbh_fdS3At8zTJzws=w2560-h1440-rw",
         "directive_link": "https://play.google.com/store/apps/details?id=com.coloring.book.pages.colordodo"
+      },
+      {
+        "image_uRL": "https://play-lh.googleusercontent.com/aYIhdspMOWLxY3m7kTuswul0JnWFyXKCfHFXmqo0t3QimhLitiRsShgPB33AW-E7wp0=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number"
       }
     ],
     "More_Games" : [
@@ -11,6 +15,11 @@
         "app_icon_url": "https://play-lh.googleusercontent.com/-3g7-W_PXmeOJ14h85CZXy9PvAQ6RDiX89XNhQ6xl27Ld5FvrolEh4fQQYepsRiXcPdX=s512-rw",
         "app_name": "Attack Hole",
         "app_link": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole"
+      },
+      {
+        "app_icon_url": "https://play-lh.googleusercontent.com/NRVvxVhvUyoq96IMR0LSnoXQz7wVnVaGEgMrUD1UjIBfX3ULO2PAfhE4Xfh3zYu1GAs=s512-rw",
+        "app_name": "Going Balls",
+        "app_link": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
       }
     ]
   },
