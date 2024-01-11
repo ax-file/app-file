@@ -2,24 +2,15 @@
   "Slider & Games" : {
     "Slider_Images" : [
       {
-        "image_uRL": "-",
-        "directive_link": "-"
-      },
-      {
-        "image_uRL": "-",
-        "directive_link": "-"
+        "image_uRL": "https://play-lh.googleusercontent.com/br-7zIxooRbfEN2sUtHWMF-LNS5KGfdvfQbDWyuU1U2QNL1Znkqbh_fdS3At8zTJzws=w2560-h1440-rw",
+        "directive_link": "https://play.google.com/store/apps/details?id=com.coloring.book.pages.colordodo"
       }
     ],
     "More_Games" : [
       {
-        "app_icon_url": "-",
-        "app_name": "-",
-        "app_link": "-"
-      },
-      {
-        "app_icon_url": "-",
-        "app_name": "-",
-        "app_link": "-"
+        "app_icon_url": "https://play-lh.googleusercontent.com/-3g7-W_PXmeOJ14h85CZXy9PvAQ6RDiX89XNhQ6xl27Ld5FvrolEh4fQQYepsRiXcPdX=s512-rw",
+        "app_name": "Attack Hole",
+        "app_link": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole"
       }
     ]
   },
